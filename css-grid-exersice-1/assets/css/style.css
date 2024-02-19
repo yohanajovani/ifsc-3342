@@ -34,7 +34,7 @@ html {
     float:left;
   }
   
-  #blog{
+  article.post{
     background: rgba(192, 20, 20, 0.6);
     /* width: 600px; */
     width: 66.4583%;
